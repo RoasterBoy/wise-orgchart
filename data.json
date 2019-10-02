@@ -1,16 +1,16 @@
 {
- "name": "WISE Organization",
+ "name": "WISEOrganization",
  "children": [
   {
-   "name": "Assumption College",
+   "name": "AssumptionCollege",
    "children": [
     {
      "name": "Administration",
      "children": [
-      {"name": "Assumption President", "value": 3938},
-      {"name": "Continuing Education", "value": 3812},
-      {"name": "WISE Director", "value": 6714},
-      {"name": "Office Manager", "value": 743}
+      {"name": "AssumptionPresident", "value": 3938},
+      {"name": "ContinuingEducation", "value": 3812},
+      {"name": "WISEDirector", "value": 6714},
+      {"name": "OfficeManager", "value": 743}
      ]
     },
     {
