@@ -14,7 +14,7 @@
         ]
        },
        {
-        "name": "graph",
+        "name": "Grape",
         "children": [
          {"name": "BetweennessCentrality", "value": 3534},
          {"name": "LinkDistance", "value": 5731},
