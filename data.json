@@ -1,14 +1,14 @@
 {
- "name": "WISEOrganization",
+ "name": "WISE\ Organization",
  "children": [
   {
-   "name": "AssumptionCollege",
+   "name": "Assumption\ College",
    "children": [
     {
      "name": "Administration",
      "children": [
-      {"name": "AssumptionPresident", "value": 3938},
-      {"name": "ContinuingEducation", "value": 3812},
+      {"name": "Assumption\ President\nFrancesco\ Cesareo", "value": 3938},
+      {"name": "Continuing\ Education", "value": 3812},
       {"name": "WISEDirector", "value": 6714},
       {"name": "OfficeManager", "value": 743}
      ]
