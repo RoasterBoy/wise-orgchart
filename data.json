@@ -2,15 +2,15 @@
  "name": "W.I.S.E",
  "children": [
   {
-   "name": "Assumption\ College",
+   "name": "Assumption-College",
    "children": [
     {
      "name": "Administration",
      "children": [
-      {"name": "Assumption\ President\nFrancesco\ Cesareo", "value": 3938},
-      {"name": "Continuing\ Education", "value": 3812},
-      {"name": "WISEDirector", "value": 6714},
-      {"name": "OfficeManager", "value": 743}
+      {"name": "Assumption-President\nFrancesco\ Cesareo", "value": 3938},
+      {"name": "Continuing-Education", "value": 3812},
+      {"name": "WISED-Director", "value": 6714},
+      {"name": "Office-Manager", "value": 743}
      ]
     },
     {
