@@ -24,7 +24,7 @@
         ]
        },
        {
-        "name": "optimization",
+        "name": "Sneaky",
         "children": [
          {"name": "AspectRatioBanker", "value": 7074}
         ]
