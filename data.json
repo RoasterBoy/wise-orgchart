@@ -2,15 +2,15 @@
     "name": "W.I.S.E",
     "children": [
      {
-      "name": "Assumption\u0020University",
+      "name": "AssumptionUniversity",
       "children": [
        {
         "name": "Administration",
         "children": [
-         {"name": "Assumption\u0020President\u0020Francesco\u0020Cesareo", "value": 3938},
-         {"name": "Continuing\u0020Education", "value": 3812},
-         {"name": "WISED\u0020Director", "value": 6714},
-         {"name": "Office\u0020Manager", "value": 743}
+         {"name": "AssumptionPresident", "value": 3938},
+         {"name": "ContinuingEducation", "value": 3812},
+         {"name": "WISEDirector", "value": 6714},
+         {"name": "OfficeManager", "value": 743}
         ]
        },
        {
